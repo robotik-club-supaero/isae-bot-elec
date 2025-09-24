@@ -4,3 +4,7 @@ Version=1.0
 ProjectPath=carte_action\carte_action.PrjPcb
 [Project2]
 ProjectPath=carte_propu\Carte_Propu.PrjPCB
+[Project3]
+ProjectPath=GR_Alim\GR_Alim.PrjPCB
+[Project4]
+ProjectPath=GR_Pi\GR_Pi.PrjPCB
