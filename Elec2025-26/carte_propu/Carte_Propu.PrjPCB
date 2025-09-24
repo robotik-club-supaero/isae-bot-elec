@@ -36,10 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=CF95BD2E-FAE5-45CD-B2F6-109111BBDB14
-VaultGUID=E26B0142-162D-4F32-B81D-C6B5380CB59F
-ReleaseVaultName=Florian
-ItemGUID=CF95BD2E-FAE5-45CD-B2F6-109111BBDB14
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -393,23 +390,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=..\..\libs\VL53L7CXV0GC1.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
 DocumentPath=..\..\libs\VL53L7CXV0GC1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\..\libs\VL53L7CXV0GC1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -443,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=PCB_Propu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGVWWVTC
 
-[Document25]
+[Document24]
 DocumentPath=..\..\libs\teensy4.0.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\..\libs\TEENSY_4.0.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
