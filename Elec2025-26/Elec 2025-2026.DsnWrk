@@ -1,4 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=carte_action\carte_action\carte_action.PrjPcb
+ProjectPath=carte_action\carte_action.PrjPcb
+[Project2]
+ProjectPath=carte_propu\Carte_Propu.PrjPCB
