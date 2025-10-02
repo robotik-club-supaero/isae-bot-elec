@@ -5,8 +5,8 @@ ProjectPath=carte_action\carte_action.PrjPcb
 [Project2]
 ProjectPath=GR_Alim\GR_Alim.PrjPCB
 [Project3]
-ProjectPath=GR_Pi\GR_Pi.PrjPCB
-[Project4]
 ProjectPath=carte_propu\Carte_Propu.PrjPCB
+[Project4]
+ProjectPath=GR_Split\GR_Split.PrjPCB
 [Project5]
-ProjectPath=..\old_repos\Elec2023-24\Raspi_Hat\Raspi_Hat.PrjPcb
+ProjectPath=Raspi_Hat\Raspi_Hat.PrjPcb
