@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GR_LED.PcbDoc]
+   Generated File[GR_LED.TXT]
+   Generated File[GR_LED.LDP]
+   Generated File[GR_LED.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:46:32 On 25/04/2019

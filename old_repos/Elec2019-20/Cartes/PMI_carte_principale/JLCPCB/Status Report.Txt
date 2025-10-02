@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMI_carte_principale.PcbDoc]
+   Generated File[PMI_carte_principale.TXT]
+   Generated File[PMI_carte_principale.LDP]
+   Generated File[PMI_carte_principale.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:12:51 On 16/05/2019

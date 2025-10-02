@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [XP_Driver.PcbDoc]
+   Generated File[XP_Driver.TXT]
+   Generated File[XP_Driver.LDP]
+   Generated File[XP_Driver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:43:12 On 05/05/2019

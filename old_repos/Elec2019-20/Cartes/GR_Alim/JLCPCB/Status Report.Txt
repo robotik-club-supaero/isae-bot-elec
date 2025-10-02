@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GR_Alim.PcbDoc]
+   Generated File[GR_Alim.TXT]
+   Generated File[GR_Alim.LDP]
+   Generated File[GR_Alim.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:43:40 On 27/02/2019

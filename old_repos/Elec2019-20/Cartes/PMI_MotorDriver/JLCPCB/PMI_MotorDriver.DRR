@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PMI_MotorDriver.PcbDoc   05/05/2019  23:46:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PMI_MotorDriver.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             27        PTH        8.26inch (209.71mm)
+T2      30mil (0.762mm)                                           Round             6         PTH        0.70inch (17.78mm)
+T3      32mil (0.8mm)                                             Round             8         PTH        2.25inch (57.09mm)
+T4      35mil (0.9mm)                                             Round             21        PTH        2.96inch (75.26mm)
+T5      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             2         PTH        0.13inch (3.40mm)
+T6      126mil (3.2mm)                                            Round             4         NPTH       4.61inch (117.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+
+Total Processing Time (hh:mm:ss) : 00:00:00

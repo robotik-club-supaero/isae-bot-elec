@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GR_Propulsion.PcbDoc]
+   Generated File[GR_Propulsion.TXT]
+   Generated File[GR_Propulsion.LDP]
+   Generated File[GR_Propulsion.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:40:18 On 27/02/2019

@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GR_Propulsion.PcbDoc   27/02/2019  21:40:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GR_Propulsion.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             18        PTH        9.06inch (230.08mm)
+T2      30mil (0.762mm)                                           Round             32        PTH        5.38inch (136.75mm)
+T3      32mil (0.8mm)                                             Round             28        PTH        6.91inch (175.45mm)
+T4      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             2         PTH        0.13inch (3.40mm)
+T5      59mil (1.5mm)                                             Round             2         PTH        0.89inch (22.60mm)
+T6      71mil (1.8mm)                                             Round             6         PTH        1.62inch (41.26mm)
+T7      118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             3         NPTH       0.98inch (24.76mm)
+T9      126mil (3.2mm)                                            Round             4         NPTH       5.91inch (150.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00

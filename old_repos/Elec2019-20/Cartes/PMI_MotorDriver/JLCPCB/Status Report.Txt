@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMI_MotorDriver.PcbDoc]
+   Generated File[PMI_MotorDriver.TXT]
+   Generated File[PMI_MotorDriver.LDP]
+   Generated File[PMI_MotorDriver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:46:30 On 05/05/2019

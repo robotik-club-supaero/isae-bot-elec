@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PMI_carte_principale.PcbDoc   16/05/2019  00:12:50
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PMI_carte_principale.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             3         PTH        1.29inch (32.88mm)
+T2      30mil (0.762mm)                                           Round             73        PTH        15.26inch (387.54mm)
+T3      32mil (0.8mm)                                             Round             21        PTH        6.84inch (173.66mm)
+T4      35mil (0.9mm)                                             Round             12        PTH        2.62inch (66.60mm)
+T5      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             4         PTH        1.52inch (38.55mm)
+T6      43mil (1.1mm)                                             Round             4         PTH        1.12inch (28.35mm)
+T7      55mil (1.4mm)                                             Round             4         PTH        0.55inch (14.05mm)
+T8      126mil (3.2mm)                                            Round             4         NPTH       8.18inch (207.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              125
+
+Total Processing Time (hh:mm:ss) : 00:00:01
