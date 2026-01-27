@@ -9,8 +9,10 @@ ProjectPath=carte_propu\Carte_Propu2026.PrjPCB
 [Project4]
 ProjectPath=Raspi_Hat\Raspi_Hat.PrjPcb
 [Project5]
-ProjectPath=Split_Photodiodes\Split_action2026.PrjPcb
-[Project6]
 ProjectPath=split_propu\Split_propu2026.PrjPcb
-[Project7]
+[Project6]
 ProjectPath=carte_ecureuil\carte_ecureuil2026.PrjPcb
+[Project7]
+ProjectPath=split_action\Split_action2026.PrjPcb
+[Project8]
+ProjectPath=carte_ninja2026\carte_ninja2026.PrjPcb
