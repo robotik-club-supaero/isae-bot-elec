@@ -16,3 +16,5 @@ ProjectPath=carte_ecureuil\carte_ecureuil2026.PrjPcb
 ProjectPath=split_action\Split_action2026.PrjPcb
 [Project8]
 ProjectPath=carte_ninja2026\carte_ninja2026.PrjPcb
+[Project9]
+ProjectPath=..\libs\BA178M05FP-E2.LibPkg
