@@ -8,7 +8,7 @@ ProjectPath=carte_pami2026-27\carte_pami2026-27.PrjPcb
 ProjectPath=GR_carte_action27\GR_carte_action27.PrjPcb
 
 [Project3]
-ProjectPath=GR_carte_alim27\GR_carte_alim27.PrjPcb
+ProjectPath=GR_carte_PiHat27\GR_carte_PiHat27.PrjPcb
 
 [Project4]
-ProjectPath=GR_carte_PiHat27\GR_carte_PiHat27.PrjPcb
+ProjectPath=GR_carte_alim27\GR_carte_alim27.PrjPcb
